@@ -2,7 +2,7 @@
 
 <hr/>
 
-Run the **init** shell script to get started.
+Run the **init** shell script to get started. This should generate some simple scaffolding to give you a basic understanding of the setup needed to run webpack/babel transpiler.
 
 <pre>$ ./init.sh</pre>
 <hr/>
